@@ -57,7 +57,8 @@ Each question is supported with visual analysis and ends with actionable recomme
 
 ## 📁 Files Included
 
-- `Sales Insight File – Cleaned, Modeled & Dashboarded` → Main Excel file with all sheets → 
+- `Sales Insight File – Cleaned, Modeled & Dashboarded` → Main Excel file with all sheets →  👉 [Download Main Excel File](https://docs.google.com/spreadsheets/d/1Yosq-yupDN3JNGJ660Yk_yf8dT9gUWkx/export?format=xlsx)
+
 - `Sales & Performance Analytics Report` → Business report with analysis & recommendations → 👉 [Download Report](https://drive.google.com/uc?export=download&id=1mbJbIRlRcTr-mDDH6L0qSe11rlrxxB4w)
 - `Dashboard-Screenshot.png` → Snapshot of the dashboard
 - `Uncleaned-Data.xlsx` → The original uncleaned dataset before any transformation (for comparison and transparency)
