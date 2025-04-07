@@ -58,7 +58,7 @@ Each question is supported with visual analysis and ends with actionable recomme
 ## 📁 Files Included
 
 - `Sales-Dashboard.xlsx` → Main Excel file with all sheets
-- `Sales-Analytics-Report.pdf` → Business report with analysis & recommendations → 👉 [Download Report](https://docs.google.com/document/d/1Ghk1V3tnNiJ5kWcdi2l5eKXwHFEkhicP/export?format=pdf)
+- `Sales & Performance Analytics Report` → Business report with analysis & recommendations → 👉 [Download Report](https://docs.google.com/document/d/1Ghk1V3tnNiJ5kWcdi2l5eKXwHFEkhicP/export?format=pdf)
 - `Dashboard-Screenshot.png` → Snapshot of the dashboard
 - `Uncleaned-Data.xlsx` → The original uncleaned dataset before any transformation (for comparison and transparency)
 
