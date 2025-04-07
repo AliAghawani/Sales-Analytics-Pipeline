@@ -61,7 +61,8 @@ Each question is supported with visual analysis and ends with actionable recomme
 
 - `Sales & Performance Analytics Report` → Business report with analysis & recommendations → 👉 [Download Report](https://drive.google.com/uc?export=download&id=1mbJbIRlRcTr-mDDH6L0qSe11rlrxxB4w)
 - `Dashboard-Screenshot.png` → Snapshot of the dashboard
-- `Uncleaned-Data.xlsx` → The original uncleaned dataset before any transformation (for comparison and transparency)
+- `Uncleaned-Data.xlsx` → The original uncleaned dataset before any transformation (for comparison and transparency) → 👉 [Download Uncleaned Sales Data (Excel)](https://docs.google.com/spreadsheets/d/1kseKtdTb1hIuMxnNQ3O-rxblbUiKh0UW/export?format=xlsx)
+
 
 ---
 
